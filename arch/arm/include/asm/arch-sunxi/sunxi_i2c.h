@@ -1,5 +1,5 @@
 /* 
- * Support for GPIO-I2C on SUN8I V3S
+ * SUN8I V3S I2C driver.
  *
  * Copyright(c) 2017 I4VINE Inc.,
  * All right reserved by JuYoung Ryu<jyryu@stcube.com>

@@ -189,6 +189,12 @@ config TEGRA186_BPMP_I2C
 	  by the BPMP, and can only be accessed by the main CPU via IPC
 	  requests to the BPMP. This driver covers the latter case.
 
+config I2C_SUNXI
+	bool "Enable sun8i i2c driver"
+	depends on DM_I2C
+	help
+		Support for sun8i v3s.
+		
 source "drivers/i2c/muxes/Kconfig"
 
 endmenu

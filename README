@@ -5,6 +5,16 @@
 # SPDX-License-Identifier:	GPL-2.0+
 #
 
+//////////////////////////////////////////////////////////////////////
+# Notes from TOOSAKA
+
+Just for better understanding while I am reading this.
+
+arch/arm/cpu/u-boot.lds :整个Uboot的整体构造脚本。
+
+
+
+
 Summary:
 ========
 
